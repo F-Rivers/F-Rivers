@@ -1,4 +1,4 @@
-- 🏽🤙🏾 Hi, I’m @F-Rivers
+- 🤙🏾 Hi, I’m @F-Rivers
 
 
 <!---
