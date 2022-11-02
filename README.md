@@ -2,7 +2,7 @@
 - 🗣 English and Spanish
 - 🫡 Υ Σ Μ Χ 
 - 🇲🇽 🇺🇸 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rivera-francisco" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rivera-francisco?trk=profile-badge">Francisco Rivera</a></div>
               
 <!---
